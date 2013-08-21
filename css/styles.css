@@ -14,4 +14,11 @@ html {
     -moz-box-shadow: 0 0 20px black;
     -webkit-box-shadow: 0 0 20px black;
     box-shadow: 0 0 20px black;
+    position: relative;
+}
+
+.img-rounded {
+    float: right;
+    border: 1px solid #c0c0c0;
+    padding: 5px;
 }
