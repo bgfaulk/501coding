@@ -1,5 +1,5 @@
 html {
-    background: url(../images/bob-van-aubel-ray-bans.jpg) no-repeat center center fixed;
+    background: url(../images/gipsy_in_the_woods.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,10 +14,10 @@ html {
     -moz-box-shadow: 0 0 20px black;
     -webkit-box-shadow: 0 0 20px black;
     box-shadow: 0 0 20px black;
-    position: relative;
 }
 
 .img-rounded {
+    position: relative;
     float: right;
     border: 1px solid #c0c0c0;
     padding: 5px;
